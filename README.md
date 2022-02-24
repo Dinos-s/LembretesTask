@@ -1,4 +1,3 @@
 # LembretesTask
-agende suas tarefas,
-
+agende suas tarefas;
 @DIO aprendendo @Kotlin com @Android
